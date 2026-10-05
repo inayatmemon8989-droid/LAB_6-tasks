@@ -32,7 +32,3 @@ This repository contains C program solutions for 9 practice tasks covering basic
   Analyzes 5 household energy units using arrays, calculates bill per household (10 Rs/unit + 5% surcharge if > 500 units), and displays total units and revenue.
 
 
-
-```bash
-gcc task01.c -o task01
-./task01
